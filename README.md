@@ -1,0 +1,1 @@
+A fashion history educator chatbot is a specialized AI or conversational agent designed to teach and share knowledge about the history of fashion. Its primary role is to educate users—whether students, designers, historians, or enthusiasts—on various topics within the field of fashion history.
